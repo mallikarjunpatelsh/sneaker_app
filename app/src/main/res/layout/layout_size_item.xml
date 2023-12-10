@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@+id/tv_size"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/dimen_16"
+    android:background="@drawable/selector_size_filter"
+    android:clickable="true"
+
+    android:gravity="center"
+    tools:text="WHITE(99)"
+    android:textColor="@color/selector_size_filter_text"
+    android:textSize="@dimen/text_size_12"
+    android:padding="@dimen/dimen_10"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:focusable="true" />

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sneakers App</string>
+    <string name="title_home">SNEAKERSHIP</string>
+    <string name="title_checkout">Checkout</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="something_went_wrong">something went wrong</string>
+    <string name="size_uk">Size (UK) : </string>
+    <string name="color">Color :</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="price">Price: $%1$s</string>
+    <string name="sub_total_price">Sub Total : $%1$s</string>
+    <string name="total_price">Sub Total : $%1$s</string>
+    <string name="quantity">Quantity: %1$s</string>
+    <string name="price_only">$%1$s</string>
+    <string name="removed_the_item_from_cart">Removed the item from cart</string>
+    <string name="internet_connection">No Internet Available</string>
+    <string name="added_item_to_cart">Added item to cart</string>
+    <string name="order_details">Order Details</string>
+    <string name="taxes_and_charges_40">Taxes and Charges : $40</string>
+    <string name="cart_is_empty">Cart is empty</string>
+</resources>

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "1",
+    "brand": "Nike",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d9f1d9ee-a848-4a36-aab9-48b241078ebb/air-force-1-le-older-shoe-TDGHCN.png",
+      "smallImageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d9f1d9ee-a848-4a36-aab9-48b241078ebb/air-force-1-le-older-shoe-TDGHCN.png",
+      "thumbUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d9f1d9ee-a848-4a36-aab9-48b241078ebb/air-force-1-le-older-shoe-TDGHCN.png"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 298,
+    "styleId": "string",
+    "shoe": "string",
+    "name": "Nike Air Max 2021",
+    "title": "Set Up perscipiciats omni iste natus error",
+    "year": 0
+  },
+  {
+    "id": "2",
+    "brand": "Nike",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/05686f6f-ef3a-4c17-874c-47632e4ec18f/air-jordan-1-low-older-shoes-xLzJc6.png",
+      "smallImageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/05686f6f-ef3a-4c17-874c-47632e4ec18f/air-jordan-1-low-older-shoes-xLzJc6.png",
+      "thumbUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/05686f6f-ef3a-4c17-874c-47632e4ec18f/air-jordan-1-low-older-shoes-xLzJc6.png"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 248,
+    "styleId": "string",
+    "shoe": "string",
+    "name": "Nike Black Air Max 2021",
+    "title": "string",
+    "year": 0
+  },{
+    "id": "3",
+    "brand": "Nike",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/02445041-ef0a-4bab-a0b6-0e981d4bb41d/air-jordan-1-low-older-shoes-xLzJc6.png",
+      "smallImageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/05686f6f-ef3a-4c17-874c-47632e4ec18f/air-jordan-1-low-older-shoes-xLzJc6.png",
+      "thumbUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/05686f6f-ef3a-4c17-874c-47632e4ec18f/air-jordan-1-low-older-shoes-xLzJc6.png"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 248,
+    "styleId": "string",
+    "shoe": "string",
+    "name": "Air Jordan 1 Low",
+    "title": "Older Kids' Shoes",
+    "year": 0
+  },{
+    "id": "4",
+    "brand": "Nike",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/3f329dca-07fd-401f-a5ae-0f82bfc99cee/air-jordan-1-low-se-craft-older-shoes-T8J0rv.png",
+      "smallImageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/05686f6f-ef3a-4c17-874c-47632e4ec18f/air-jordan-1-low-older-shoes-xLzJc6.png",
+      "thumbUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/05686f6f-ef3a-4c17-874c-47632e4ec18f/air-jordan-1-low-older-shoes-xLzJc6.png"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 248,
+    "styleId": "string",
+    "shoe": "string",
+    "name": "Air Jordan 1 Low SE Craft",
+    "title": "string",
+    "year": 0
+  },{
+    "id": "5",
+    "brand": "Nike",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a953fc53-eda1-460b-b229-f5c78577b124/dunk-low-older-shoes-C7T1cx.png",
+      "smallImageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/05686f6f-ef3a-4c17-874c-47632e4ec18f/air-jordan-1-low-older-shoes-xLzJc6.png",
+      "thumbUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/05686f6f-ef3a-4c17-874c-47632e4ec18f/air-jordan-1-low-older-shoes-xLzJc6.png"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 248,
+    "styleId": "string",
+    "shoe": "string",
+    "name": "Nike Dunk Low",
+    "title": "Older Kids' Shoes",
+    "year": 0
+  },{
+    "id": "6",
+    "brand": "Nike",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/bcf82e90-320d-4fde-b89b-44f84ae9d92a/blazer-mid-77-older-shoes-4Vk9Rd.png",
+      "smallImageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/05686f6f-ef3a-4c17-874c-47632e4ec18f/air-jordan-1-low-older-shoes-xLzJc6.png",
+      "thumbUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/05686f6f-ef3a-4c17-874c-47632e4ec18f/air-jordan-1-low-older-shoes-xLzJc6.png"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 248,
+    "styleId": "string",
+    "shoe": "string",
+    "name": "Nike Blazer Mid '77",
+    "title": "Older Kids' Shoes",
+    "year": 0
+  },{
+    "id": "7",
+    "brand": "Nike",
+    "colorway": "string",
+    "gender": "string",
+    "media": {
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/129cadee-7396-498d-bf06-9c348aaf8a98/dunk-low-younger-shoes-bk3xlz.png",
+      "smallImageUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/05686f6f-ef3a-4c17-874c-47632e4ec18f/air-jordan-1-low-older-shoes-xLzJc6.png",
+      "thumbUrl": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/05686f6f-ef3a-4c17-874c-47632e4ec18f/air-jordan-1-low-older-shoes-xLzJc6.png"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 248,
+    "styleId": "string",
+    "shoe": "string",
+    "name": "Nike Dunk Low",
+    "title": "Younger Kids' Shoes",
+    "year": 0
+  }
+]

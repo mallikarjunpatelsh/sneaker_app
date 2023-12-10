@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/dimen_16">
+
+    <TextView
+        android:id="@+id/tv_order_details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_20"
+        android:textColor="@color/black"
+        android:text="@string/order_details"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_sub_total"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_18"
+        android:layout_marginTop="@dimen/dimen_10"
+        android:textColor="@color/black"
+        android:text="@string/sub_total_price"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_order_details" />
+
+    <TextView
+        android:id="@+id/tv_taxes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_18"
+        android:textColor="@color/black"
+        android:text="@string/taxes_and_charges_40"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_sub_total" />
+
+    <TextView
+        android:id="@+id/tv_total"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_18"
+        android:textColor="@color/black"
+        android:text="@string/total_price"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBaseline_toBaselineOf="@id/checkout_button"
+        app:layout_constraintTop_toBottomOf="@id/tv_taxes" />
+
+    <TextView
+        android:id="@+id/checkout_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_size_color_selected"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_12"
+        android:padding="@dimen/dimen_6"
+        android:text="@string/title_checkout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_taxes" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
